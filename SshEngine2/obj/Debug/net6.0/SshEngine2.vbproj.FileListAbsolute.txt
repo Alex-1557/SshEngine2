@@ -1,0 +1,12 @@
+G:\Git\SshEngine2\SshEngine2\obj\Debug\net6.0\SshEngine2.vbproj.AssemblyReference.cache
+G:\Git\SshEngine2\SshEngine2\obj\Debug\net6.0\SshEngine2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Git\SshEngine2\SshEngine2\obj\Debug\net6.0\SshEngine2.AssemblyInfoInputs.cache
+G:\Git\SshEngine2\SshEngine2\obj\Debug\net6.0\SshEngine2.AssemblyInfo.vb
+G:\Git\SshEngine2\SshEngine2\obj\Debug\net6.0\SshEngine2.vbproj.CoreCompileInputs.cache
+G:\Git\SshEngine2\SshEngine2\bin\Debug\net6.0\SshEngine2.deps.json
+G:\Git\SshEngine2\SshEngine2\bin\Debug\net6.0\SshEngine2.dll
+G:\Git\SshEngine2\SshEngine2\bin\Debug\net6.0\SshEngine2.pdb
+G:\Git\SshEngine2\SshEngine2\obj\Debug\net6.0\SshEngine2.dll
+G:\Git\SshEngine2\SshEngine2\obj\Debug\net6.0\refint\SshEngine2.dll
+G:\Git\SshEngine2\SshEngine2\obj\Debug\net6.0\SshEngine2.pdb
+G:\Git\SshEngine2\SshEngine2\obj\Debug\net6.0\ref\SshEngine2.dll
